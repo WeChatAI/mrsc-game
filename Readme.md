@@ -19,8 +19,8 @@ https://mp.weixin.qq.com/wxopen/plugindevdoc?appid=wx8c631f7e9f2465e1
 
 ![链接](./show.png)
 
+![配置](https://res.wx.qq.com/wxdoc/dist/assets/img/warskill5.a16c4b39.png)
 [参考配置](https://developers.weixin.qq.com/doc/aispeech/warskill.html)
-`https://developers.weixin.qq.com/doc/aispeech/warskill.html`
 
 
 
