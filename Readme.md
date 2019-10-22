@@ -18,10 +18,14 @@ https://mp.weixin.qq.com/wxopen/plugindevdoc?appid=wx8c631f7e9f2465e1
 > 此示例代码仅做为接入微信对话开放平台小程序插件的示例供开发者参考
 
 
+末日生存游戏配置参考：
+
+https://developers.weixin.qq.com/doc/aispeech/warskill.html
+
+
 ![配置](image/p.jpg)
 
 ![配置](https://res.wx.qq.com/wxdoc/dist/assets/img/warskill5.a16c4b39.png)
-[参考配置](https://developers.weixin.qq.com/doc/aispeech/warskill.html)
 
 
 
